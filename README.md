@@ -1,11 +1,11 @@
 # Biendata BAAI Astrodata 2019
-This is our solution for [BAAI Astrodata 2019](https://www.biendata.com/competition/astrodata2019/)。 We implemented a simple but powerful deep conv model and ranked 2rd in the test set.
+This is our solution for [BAAI Astrodata 2019](https://www.biendata.com/competition/astrodata2019/). We implemented a simple but powerful deep conv model and ranked 2rd in the test set.
 
 ### Feature
 * Codes are neat and clear using skorch. 
 * Using a 6-block-layer Resnet 
 * Using Squeeze layer for fast convergence
-* Using CEloss for training, L1loss for fintuning
+* Using CEloss for training, L1loss for finetuning
 * Scores are stable when training
 
 ### Exploratory Data Analysis
